@@ -1,0 +1,57 @@
+{
+  "chamados": [
+    {
+      "id": "3be3",
+      "titulo": "Monitor parou",
+      "codSolicitante": "0000000i",
+      "nomeSolicitante": "nao tenho",
+      "codAnalista": "022",
+      "nomeAnalista": "Irineu Filho",
+      "centroCusto": "9999",
+      "descCusto": "sei nao",
+      "detalhamento": "aaaaaaaaaaaaaa",
+      "categoria": "Sistema",
+      "status": "Aberto"
+    },
+    {
+      "id": "f75d",
+      "titulo": "Monitor parou",
+      "codSolicitante": "000000",
+      "nomeSolicitante": "sla",
+      "codAnalista": "022",
+      "nomeAnalista": "Irineu Filho",
+      "centroCusto": "aaaaaaaa",
+      "descCusto": "sei nao",
+      "detalhamento": "aaaa",
+      "categoria": "Sistema",
+      "status": "Em Progresso"
+    },
+    {
+      "id": "9e60",
+      "titulo": "Monitor com defeito",
+      "codSolicitante": "013121",
+      "nomeSolicitante": "Gabrielly Leite",
+      "codAnalista": "030",
+      "nomeAnalista": "Enzo Ugbobi",
+      "centroCusto": "9999a",
+      "descCusto": "ic",
+      "detalhamento": "scorro",
+      "categoria": "Infraestrutura",
+      "status": "Concluído"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "1234",
+      "role": "user"
+    }
+  ]
+}
